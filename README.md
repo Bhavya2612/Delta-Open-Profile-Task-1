@@ -5,7 +5,7 @@ Colorization of grayscale images using Convolutional Neural Networks by Keras AP
 
 The images are taken from the given dataset in the question.
 My process consists of the following steps :
- a)Pre processing the images to give them a standard size so that there can be a universal model for all images to be processed.
+ a)Pre processing the images to give them a standard size so that there can be a universal model for all images to be processed./n
  b)Importing libraries.
  c)Using the img_to_array method to convert the images into arrays.
  d)Changing the color balance from RGB to LAB.
