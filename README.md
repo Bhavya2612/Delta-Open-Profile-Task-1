@@ -22,3 +22,6 @@ My process consists of the following steps :
  g)Designing the model to get the desired output after evaluation and fitting.
  
  h)Getting the desired output.
+ 
+ 
+ #The best result was found for image named new2.png (a bulbasaur:) )
